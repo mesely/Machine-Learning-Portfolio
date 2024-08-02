@@ -14,7 +14,7 @@ This project involves analyzing Spotify music data to uncover patterns and insig
 - Popularity and BPM categorization
 - Genre-based analysis
 
-### 2. Penguin Health Prediction Model
+### 2. Penguin Health Prediction Model Decision Tree
 This project focuses on predicting the health metrics of penguins based on various attributes. The dataset includes information such as species, island, sex, and physical measurements.
 
 #### Key Features:
@@ -25,7 +25,7 @@ This project focuses on predicting the health metrics of penguins based on vario
 - Decision Tree Classifier
 - Model evaluation and performance metrics
 
-### 3. High-Dimensional Neighbor Analysis
+### 3. High-Dimensional Neighbor Analysis kNN
 This project explores the concept of nearest neighbors in high-dimensional space. It includes functions to calculate average and minimum distances, and analyze the impact of dimensionality on these metrics.
 
 #### Key Features:
